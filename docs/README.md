@@ -1,4 +1,4 @@
-# Microsoft Grpah 从入门到精通
+# Microsoft Graph 从入门到精通
 > 作者：陈希章 2021-12-10
 
 ## 概述
