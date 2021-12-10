@@ -1,7 +1,7 @@
 {
-    "title": "我的书籍标题",
-    "author": "作者名称",
-    "description": "书籍的描述信息，可用于SEO",
+    "title": "Microsoft Graph从入门到精通",
+    "author": "陈希章",
+    "description": "这本电子书将包括Microsoft Graph的入门基础知识，应用场景，以及高级用法",
     "language": "zh",
     "root": "docs",
     "plugins": [
@@ -9,7 +9,7 @@
     ],
     "pluginsConfig": {
         "analytics": {
-            "uid": "UA-194975404-1"
+            "uid": "UA-214754799-1"
         }
     }
 }
