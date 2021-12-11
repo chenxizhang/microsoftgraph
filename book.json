@@ -3,14 +3,5 @@
     "author": "陈希章",
     "description": "这本电子书将包括Microsoft Graph的入门基础知识，应用场景，以及高级用法",
     "language": "zh",
-    "root": "docs",
-    "plugins": [
-        "honkit-plugin-google-analytics",
-        "-lunr"
-    ],
-    "pluginsConfig": {
-        "analytics": {
-            "uid": "UA-214754799-1"
-        }
-    }
+    "root": "docs"
 }
