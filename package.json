@@ -13,7 +13,6 @@
   "license": "ISC",
   "devDependencies": {
     "honkit": "^3.6.23",
-    "honkit-plugin-google-analytics": "^1.0.0",
-    "gitbook-plugin-favicon": "^0.0.2"
+    "honkit-plugin-google-analytics": "^1.0.0"
   }
 }

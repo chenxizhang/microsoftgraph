@@ -5,17 +5,11 @@
     "language": "zh",
     "root": "docs",
     "plugins": [
-        "honkit-plugin-google-analytics",
-        "gitbook-plugin-favicon"
+        "honkit-plugin-google-analytics"
     ],
     "pluginsConfig": {
         "analytics": {
             "uid": "UA-214754799-1"
-        },
-        "favicon": {
-            "shortcut": "assets/images/favicon.ico",
-            "bookmark": "assets/images/favicon.ico",
-            "appleTouch": "assets/images/apple-touch-icon.png"
         }
     }
 }
