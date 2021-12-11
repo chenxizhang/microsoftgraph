@@ -5,7 +5,8 @@
     "language": "zh",
     "root": "docs",
     "plugins": [
-        "honkit-plugin-google-analytics"
+        "honkit-plugin-google-analytics",
+        "-lunr"
     ],
     "pluginsConfig": {
         "analytics": {
