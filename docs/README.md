@@ -27,7 +27,7 @@
 ||Microsoft Graph 设计的起源和基本框架|
 ||准备学习和开发环境|
 ||通过Microsoft Graph Explorer 和 Postman 学习Microsoft Graph|
-<!-- ||应用注册，授权，基本调用| -->
+||应用注册，授权，基本调用|
 ||原理初探：Metadata 和 OAuth,REST vs Graphql|
 ||国际版和中国版|
 | 进阶部分   ||
