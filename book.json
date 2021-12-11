@@ -6,7 +6,7 @@
     "root": "docs",
     "plugins": [
         "honkit-plugin-google-analytics",
-        "favicon"
+        "gitbook-plugin-favicon"
     ],
     "pluginsConfig": {
         "analytics": {
