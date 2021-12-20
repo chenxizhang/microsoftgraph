@@ -1,11 +1,13 @@
 ---
 marp: true
+headingDivider: 2
+theme: gaia
 ---
-<!-- headingDivider: 2 -->
+
 
 # 这个是总标题
 > 陈希章 2021-12-21
-
+https://marpit.marp.app/
 
 
 ## 标题
@@ -15,7 +17,6 @@ marp: true
 
 
 ## 第二个标题
-
 正文内容，正文内容
 
 ```javascript
@@ -25,3 +26,4 @@ function test(){
 ```
 
 ![w:400 h:300](images/2021-12-20-15-42-53.png)
+
