@@ -11,6 +11,10 @@
 **任重道远，砥砺前行**
 
 <!--
+
+    "honkit-plugin-clean": "^1.0.2",
+    "honkit-plugin-google-analytics": "^1.0.0"
+
 // ,"pluginsConfig": {
 //     "clean": {
 //         "patterns": [
