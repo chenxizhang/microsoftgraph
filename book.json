@@ -7,11 +7,4 @@
     "plugins": [
         "clean"
     ]
-    // ,"pluginsConfig": {
-    //     "clean": {
-    //         "patterns": [
-    //             "---\nmarp.*\n---"
-    //         ]
-    //     }
-    // }
 }
