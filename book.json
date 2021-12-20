@@ -6,5 +6,12 @@
     "root": "docs",
     "plugins": [
         "clean"
-    ]
+    ],
+    "pluginsConfig": {
+        "clean": {
+            "patterns": [
+                "---\nmarp.*\n---"
+            ]
+        }
+    }
 }
