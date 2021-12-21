@@ -33,7 +33,7 @@ footer: Microsoft Graph 从入门到精通，作者：陈希章, 官网：https:
 ## 内容
 <!--第二页的备注文字-->
 
-这个课程既有文字版，也有视频教程。文字版请通过 https://graph.xizhang.com 访问，永久免费。视频教程将发布到网易云课堂上面，适当收费，请大家按需取用。
+这个课程既有文字版，也有视频教程。文字版（演讲稿带备注）请通过 https://graph.xizhang.com 访问，永久免费。视频教程将发布到网易云课堂上面，适当收费，请大家按需取用。
 
 本系列讲座内容分为：基础部分，进阶部分，高级部分，特殊课程等四个部分。
 
@@ -68,6 +68,11 @@ footer: Microsoft Graph 从入门到精通，作者：陈希章, 官网：https:
 1. 教育行业应用场景和开发
 1. 面向财务的应用开发
 1. Excel as a Service
+
+
+## 相关资源
+
+申请开发者账号：https://developer.microsoft.com/zh-CN/office/dev-program
 
 ## 与诸君共勉！
 

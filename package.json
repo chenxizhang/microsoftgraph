@@ -19,7 +19,7 @@
     "author": "陈希章",
     "description": "Microsoft Graph 从入门到精通，包括基本知识，进阶部分，高级部分和特别内容等",
     "lang": "zh-CN",
-    "theme": "gaia",
+    "theme": "default",
     "keywords": "Microsoft Graph, 数据科学, 微软人工智能",
     "url": "https://graph.xizhang.com"
   }
