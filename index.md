@@ -4,20 +4,7 @@ headingDivider: 3
 paginate: true
 ---
 
-<style>
-    header{
-        font-size: 20px;
-        width:100%;
-        text-align: center;
-        padding:10px
-    }
-    footer{
-        font-size: 20px;
-        width:100%;
-        text-align: center;
-        padding:10px
-    }
-</style>
+
 
 
 # Microsoft Graph 从入门到精通
@@ -32,8 +19,9 @@ paginate: true
 
 ## 概述
 <!--
-footer: Microsoft Graph 从入门到精通，作者：陈希章, 官网：https://graph.xizhang.com 
+footer: Microsoft Graph 从入门到精通，作者：陈希章, 官网：https://graph.xizhang.com
 -->
+<!--第一页的备注文字-->
 
 ![bg opacity:.1](images/graph.png)
 
@@ -44,6 +32,7 @@ footer: Microsoft Graph 从入门到精通，作者：陈希章, 官网：https:
 1. 了解Microsoft Graph 如何构建出来
 
 ## 内容
+<!--第二页的备注文字-->
 
 这个课程既有文字版，也有视频教程。文字版请通过 https://graph.xizhang.com 访问，永久免费。视频教程将发布到网易云课堂上面，适当收费，请大家按需取用。
 
