@@ -2,9 +2,12 @@
 marp: true
 headingDivider: 3
 paginate: true
+title: Microsoft Graph 从入门到精通
+author: 陈希章
+description: 完整覆盖了Microsoft Graph的基本原理，应用开发集成，业务洞察和架构等方面的知识
+keywords: Microsoft Graph, 数据科学, 微软人工智能
+url: https://graph.xizhang.com
 ---
-
-
 
 
 # Microsoft Graph 从入门到精通
