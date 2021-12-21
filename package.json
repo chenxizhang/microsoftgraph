@@ -5,13 +5,14 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "honkit build",
+    "build": "npx marp docs",
     "serve": "honkit serve"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@marp-team/marp-cli": "^1.5.0",
     "honkit": "^3.6.23"
   }
 }
