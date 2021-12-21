@@ -3,10 +3,6 @@ marp: true
 headingDivider: 3
 paginate: true
 title: Microsoft Graph 从入门到精通
-author: 陈希章
-description: 完整覆盖了Microsoft Graph的基本原理，应用开发集成，业务洞察和架构等方面的知识
-keywords: Microsoft Graph, 数据科学, 微软人工智能
-url: https://graph.xizhang.com
 ---
 
 
@@ -43,7 +39,7 @@ footer: Microsoft Graph 从入门到精通，作者：陈希章, 官网：https:
 
 ### 基本部分
 
-1. Microsoft Graph 设计的起源和基本框架
+1. [Microsoft Graph 设计的起源和基本框架](basic/overview_and_framework.html)
 1. 准备学习和开发环境
 1. 通过Microsoft Graph Explorer 和 Postman 学习Microsoft Graph
 1. 应用注册，授权，基本调用
