@@ -5,15 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "npx marp docs",
-    "serve": "honkit serve"
+    "build": "npx marp docs --engine ./engine.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@marp-team/marp-cli": "^1.5.0",
-    "honkit": "^3.6.23"
+    "@marp-team/marp-cli": "^1.5.0"
   },
   "marp": {
     "author": "陈希章",
