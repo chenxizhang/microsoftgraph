@@ -39,7 +39,7 @@ footer: Microsoft Graph 从入门到精通，作者：陈希章, 官网：https:
 
 ### 基本部分
 
-1. [Microsoft Graph 设计的起源和基本框架](basic/overview_and_framework.html)
+1. [Microsoft Graph 设计的起源和基本框架](basic/overview_and_framework.md)
 1. 准备学习和开发环境
 1. 通过Microsoft Graph Explorer 和 Postman 学习Microsoft Graph
 1. 应用注册，授权，基本调用
