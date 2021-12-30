@@ -20,5 +20,5 @@ header: Microsoft Graph 从入门到精通 - https://graph.xizhang.com
 
 ## 从Office Graph 到 Microsoft Graph
 
-未完待续，敬请期待
+未完待续，敬请期待！
 
